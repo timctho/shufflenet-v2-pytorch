@@ -1,5 +1,5 @@
 # Shufflenet-v2-pytorch
-Pytorch implementation of ShuffleNet V2. [[Paper]](https://arxiv.org/abs/1807.11164)
+Pytorch implementation of ECCV 2018 paper ShuffleNet V2. [[Paper]](https://arxiv.org/abs/1807.11164)
 
 # Support architectures
   * ShuffleNetV2 with 0.5, 1.0, 1.5, 2.0 channel multipliers
