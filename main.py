@@ -4,7 +4,7 @@ import torch
 if __name__ == '__main__':
     # Create dummy input
     size = 224
-    dummy = torch.rand(2, 3, size, size)
+    dummy = torch.rand(1, 3, size, size)
 
     # Create model
     net = ShuffleNetV2(size, size, 3, class_num=1000, model_scale=1.0)
